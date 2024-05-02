@@ -22,7 +22,7 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
-<p align="right">
+
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=benami171&show_icons=true&locale=en" alt="benami171" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=benami171&show_icons=true&locale=en&layout=compact" alt="benami171" width="400" height="400" />
