@@ -25,6 +25,6 @@
 ### :fire: My Stats :
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benami171&layout=compact&theme=vision-friendly-dark" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=benami171&theme=highcontrast&date_format=j%20M%5B%20Y%5D" width="700" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=benami171&theme=highcontrast&date_format=j%20M%5B%20Y%5D" width="500" /> 
   <img src="https://github-readme-stats.vercel.app/api?username=benami171&theme=codeSTACKr&show_icons=true" width="400" /> 
 </p>
