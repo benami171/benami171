@@ -23,7 +23,7 @@
 </p>
 
 <p align="right">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=benami171&show_icons=true&locale=en&layout=compact" alt="benami171" width="900" height="900" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=benami171&show_icons=true&locale=en&layout=compact" alt="benami171" width="400" height="400" />
 </p>
 
 <p align="left">
