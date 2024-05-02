@@ -28,10 +28,3 @@
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=benami171)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=benami171)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-<p align="center">
-    <div style="display: flex; align-items: flex-start;">
-        <img src="https://github-readme-stats.vercel.app/api?username=benami171&show_icons=true&locale=en" alt="benami171" height="200" />
-    </div>
-</p>
