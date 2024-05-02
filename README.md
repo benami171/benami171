@@ -29,3 +29,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=benami171&theme=codeSTACKr&show_icons=true" width="400" /> 
   <img src="https://leetcard.jacoblin.cool/benami171?theme=dark&font=Zen%20Maru%20Gothic" alt="LeetCode Stats">
 </p>
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=benami171&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
