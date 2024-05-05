@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Gal Ben Ami</h1>
-<h3 align="center">A passionate Computer Science student from Israel</h3>
+<h3 align="center">A 2nd Year Computer Science student </h3>
 
 - 🔭 I’m currently working on **OOP final projects**
 - 🌱 I’m currently learning **Operating Systems and Threading**
