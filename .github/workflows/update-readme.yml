@@ -14,7 +14,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3  # Update to latest version
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '14'
 
       - name: Update README
         env:
@@ -23,10 +28,13 @@ jobs:
           curl -H "Authorization: token $GH_TOKEN" "https://github-readme-stats.vercel.app/api?username=benami171&count_private=true&theme=codeSTACKr&show_icons=true" -o stats.svg
           curl -H "Authorization: token $GH_TOKEN" "https://github-readme-streak-stats.herokuapp.com?user=benami171&count_private=true&theme=highcontrast&date_format=j%20M%5B%20Y%5D" -o streak.svg
 
+          # Use correct paths for sed to work in both Windows and Unix systems
           sed -i 's|https://github-readme-stats.vercel.app/api?username=benami171&theme=codeSTACKr&show_icons=true|./stats.svg|' README.md
           sed -i 's|https://github-readme-streak-stats.herokuapp.com?user=benami171&theme=highcontrast&date_format=j%20M%5B%20Y%5D|./streak.svg|' README.md
 
       - name: Commit and Push
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
