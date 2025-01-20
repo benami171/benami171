@@ -8,7 +8,11 @@
 
 ## 🎓 About Me
 
-I'm a Computer Science student passionate about software development and technology. I enjoy solving complex problems and building innovative solutions that make a real impact. With a strong foundation in full-stack development, I specialize in creating accessible and user-friendly web applications, particularly focusing on projects that bridge technology with user needs.
+I'm a CS student passionate about software development and technology. I enjoy solving complex problems and building innovative solutions that make a real impact.
+
+## Currently Working On
+
+I'm currently leading the modernization of the Israeli Bridge Association's digital platform (link to their current website [https://main.bridge.co.il/]), transforming their legacy Symphony-based website into a contemporary, accessible web application. This comprehensive project showcases my ability to deliver solutions that combine technical excellence with user-centric design.
 
 ## 🛠️ Tech Stack
 
