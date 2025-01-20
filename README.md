@@ -61,8 +61,6 @@ This project demonstrates my commitment to creating technology solutions that no
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=benami171&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benami171&theme=radical" alt="GitHub Streak" />
-  <img src="https://streak-stats.demolab.com?user=benami171&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🏆 Coding Profiles
