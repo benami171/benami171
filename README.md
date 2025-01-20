@@ -10,9 +10,54 @@
 
 I'm a CS student passionate about software development and technology. I enjoy solving complex problems and building innovative solutions that make a real impact.
 
-## Currently Working On
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently Working On: Israeli Bridge Association Website
 
-I'm currently leading the modernization of the Israeli Bridge Association's digital platform (link to their current website [https://main.bridge.co.il/]), transforming their legacy Symphony-based website into a contemporary, accessible web application. This comprehensive project showcases my ability to deliver solutions that combine technical excellence with user-centric design.
+<div>
+  <a href="https://main.bridge.co.il/" target="_blank">
+    <img src="https://img.shields.io/badge/Current(old)%20Website-blue" alt="Current(Old) Website"/>
+  </a>
+</div>
+
+Leading the modernization of the Israeli Bridge Association's digital platform, transforming their legacy system into a contemporary web application. This comprehensive project focuses on creating an accessible, user-friendly platform that serves the bridge community's diverse needs.
+
+### 🚀 Project Highlights
+
+<details open>
+<summary><b>💻 Modern Architecture</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+</p>
+</details>
+
+<details open>
+<summary><b>🎯 Key Features</b></summary>
+
+- **User-Centric Design**
+  - Optimized for elderly users
+  - Enhanced accessibility features
+  - Intuitive navigation patterns
+
+- **System Integration**
+  - 💳 Secure payment processing
+  - 🏆 Real-time tournament tracking
+  - 👥 Membership management
+  - 📊 Dynamic ranking system
+
+- **Technical Excellence**
+  - Legacy system migration
+  - Performance optimization
+  - Responsive design
+</details>
+
+<div align="right">
+  <i>Combining technical innovation with meaningful user impact</i>
+</div>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -44,22 +89,7 @@ I'm currently leading the modernization of the Israeli Bridge Association's digi
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
-## 🌟 Featured Project: Israeli Bridge Association Platform
 
-I'm currently leading the modernization of the Israeli Bridge Association's digital platform, transforming their legacy Symphony-based website into a contemporary, accessible web application. This comprehensive project showcases my ability to deliver solutions that combine technical excellence with user-centric design.
-
-### Project Highlights:
-- **Modern Tech Stack**: Built with React, Next.js, TypeScript, and Tailwind CSS
-- **User-Centric Design**: Specifically optimized for elderly users with accessibility features
-- **Complex Systems Integration**: 
-  - Secure payment processing
-  - Real-time competition results tracking
-  - Membership management
-  - Dynamic ranking system
-- **Legacy System Migration**: Successfully transitioning from Symphony to a modern architecture
-- **Performance Optimization**: Enhanced loading times and overall system responsiveness
-
-This project demonstrates my commitment to creating technology solutions that not only meet technical requirements but also serve real community needs.
 
 ## 📊 GitHub Stats
 
