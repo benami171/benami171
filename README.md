@@ -3,7 +3,7 @@
 
 I'm a CS student passionate about software development and technology. I enjoy solving complex problems and building innovative solutions that make a real impact.
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently Working On: Israeli Bridge Association Website
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently Working On: Israeli Bridge Federation Website
 
 <div>
   <a href="https://main.bridge.co.il/" target="_blank">
@@ -11,7 +11,7 @@ I'm a CS student passionate about software development and technology. I enjoy s
   </a>
 </div>
 
-Leading the modernization of the Israeli Bridge Association's digital platform, transforming their legacy system into a contemporary web application. This comprehensive project focuses on creating an accessible, user-friendly platform that serves the bridge community's diverse needs.
+Leading the modernization of the IBF's digital platform, transforming their legacy system into a contemporary web application. This comprehensive project focuses on creating an accessible, user-friendly platform that serves the bridge community's diverse needs.
 
 ### 🚀 Project Highlights
 
