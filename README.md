@@ -23,6 +23,7 @@ Leading the modernization of the IBF's digital platform, transforming their lega
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Prisma-DDAAFF?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
 </p>
 </details>
 
@@ -72,6 +73,7 @@ Leading the modernization of the IBF's digital platform, transforming their lega
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/>
 </p>
 
 ### Database & Tools
