@@ -88,19 +88,10 @@ Leading the modernization of the IBF's digital platform, transforming their lega
 
 
 
-## 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=benami171&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
-## 🏆 Coding Profiles
-
-<p align="left">
-<a href="https://leetcode.com/benami171" target="blank">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
-</a>
-</p>
 
 ## 🤝 Connect With Me
 
@@ -113,9 +104,3 @@ Leading the modernization of the IBF's digital platform, transforming their lega
 </a>
 </p>
 
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=benami171&style=flat-square&color=blue" alt="Profile Views"/>
-  
-  💡 _"The only way to do great work is to love what you do."_ - Steve Jobs
-</div>
