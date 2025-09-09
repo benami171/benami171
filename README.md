@@ -1,8 +1,4 @@
 
-## 🎓 About Me
-
-I'm a CS student passionate about software development and technology. I enjoy solving complex problems and building innovative solutions that make a real impact.
-
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently Working On: Israeli Bridge Federation Website
 
 <div>
